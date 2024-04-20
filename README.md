@@ -72,6 +72,11 @@
 ![d1](https://github.com/mgoski/APPM/assets/142203248/13a99ca6-4174-4615-b058-9d39a1c4338d)
 
 
+## Sumber Referensi
+- Untuk link tutorial dan bisa dijadikan referensi ada dibawah ini
+- Selebihnya saya kembangkan sendiri.
+- Link : https://www.youtube.com/playlist?list=PLYBbJKYvXA_WNb3UqvgK_ZrEn9xhB5q2G
+
 
 
 ### BACA DULU YAH HEHE <br>
