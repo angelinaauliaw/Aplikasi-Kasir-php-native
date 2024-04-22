@@ -58,7 +58,7 @@
 ### Nota ✅
 ![nota](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/b8e0be97-9541-4414-b2e1-4c346c38376c)
 ###  About Aplikasi ✅
-![nota](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/b8e0be97-9541-4414-b2e1-4c346c38376c)
+![about](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/fad6a51f-7d03-427d-a1ba-f594ac5470f9)
 
 
 ### Panduan Instalasi :<br>
