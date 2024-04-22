@@ -36,29 +36,29 @@
 ### Screenshoot Aplikasi : <br><br>
 
 ###  Halaman Login ✅
-![login](https://github.com/angelinaauliaw/aaa/assets/156304008/65a76034-a185-4dcb-bf6b-dee021588d61)
+![login](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/9bb5e369-e005-4f1c-beb1-e49af2bbb129)
 ### Halaman Dashboard Petugas ✅
-![dashboard petugas](https://github.com/angelinaauliaw/aaa/assets/156304008/578f2c21-5005-4926-9969-acf729b9138b)
+![dashboard petugas](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/fb8752e6-dea0-4631-9355-b51077497d2d)
 ###  Halaman Dashboard Admin ✅
-![dashboard admin](https://github.com/angelinaauliaw/aaa/assets/156304008/0f3698b4-9b4c-43d1-924a-986ef39afd07)
+![dashboard admin](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/4e1a510a-35f3-403d-950e-b1d664db782a)
 ### Halaman Stok Barang ✅
-![stok barang](https://github.com/angelinaauliaw/aaa/assets/156304008/4b385368-539f-4b91-8d8d-7a7b34157a4e)
+![stok barang](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/ed22a174-f0ad-445f-b99d-d2a95a11e9b5)
 ###  Halaman Barang Masuk ✅
-![barang masuk](https://github.com/angelinaauliaw/aaa/assets/156304008/7be29f3b-2b28-418b-bcda-bef108bd6d53)
+![stok barang](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/ed22a174-f0ad-445f-b99d-d2a95a11e9b5)
 ### Halaman Data Pelanggan ✅
-![pelanggan](https://github.com/angelinaauliaw/aaa/assets/156304008/ec98c83e-d3bf-44ba-9d6b-91fe9f05eea3)
+![pelanggan](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/4e25dfde-cd9a-45bc-ba30-f67fe7cc9f7b)
 ### Halaman Data Pengguna atau User ✅
-![pengguna](https://github.com/angelinaauliaw/aaa/assets/156304008/6757c582-cda1-4ec0-94a3-b3203da79e99)
+![pengguna](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/0e40c57b-9928-4636-a10b-d7823f8f3239)
 ### Halaman Kasir ✅
-![kasir](https://github.com/angelinaauliaw/aaa/assets/156304008/cb6363c8-7eee-4ba2-87ac-ee2e8fa0c941)
+![kasir](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/536672dd-b7e8-428e-ade0-1555c2f637cb)
 ###  Laporan Pembelian ✅
-![lap beli](https://github.com/angelinaauliaw/aaa/assets/156304008/239acf2c-c352-448b-86ce-758e4dbeac63)
+![lap beli](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/5f75d617-07ad-43bd-8614-9b01defa98a3)
 ###  Laporan Penjualan ✅
-![lap jual](https://github.com/angelinaauliaw/aaa/assets/156304008/fb78103b-79b6-4a25-bcf6-d3310997db96)
+![lap jual](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/9810d964-1ae3-4ec5-8e0f-3b36bc61776b)
 ### Nota ✅
-![nota](https://github.com/angelinaauliaw/aaa/assets/156304008/43474daf-ea3e-4e5c-b60e-21be75dde8df)
+![nota](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/b8e0be97-9541-4414-b2e1-4c346c38376c)
 ###  About Aplikasi ✅
-![tentang](https://github.com/angelinaauliaw/aaa/assets/156304008/6ce4708f-fede-465a-aec7-99245cde7e9e)
+![nota](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/b8e0be97-9541-4414-b2e1-4c346c38376c)
 
 
 ### Panduan Instalasi :<br>
