@@ -36,7 +36,7 @@
 ### Screenshoot Aplikasi : <br><br>
 
 ###  Halaman Login ✅
-![login](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/9bb5e369-e005-4f1c-beb1-e49af2bbb129)
+![login](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/1fd0a6b7-d2a5-44d3-b2a4-eee567d1aebc)
 ### Halaman Dashboard Petugas ✅
 ![dashboard petugas](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/84f0d6cb-44ed-4b5b-a594-594ef8d3d986)
 ###  Halaman Dashboard Admin ✅
