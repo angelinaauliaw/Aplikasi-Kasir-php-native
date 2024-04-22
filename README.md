@@ -36,29 +36,29 @@
 ### Screenshoot Aplikasi : <br><br>
 
 ###  Halaman Login ✅
-![login](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/156304008/0ebd61a1-970f-4395-b581-44005a0b19e7)
+![login](https://github.com/angelinaauliaw/aaa/assets/156304008/65a76034-a185-4dcb-bf6b-dee021588d61)
 ### Halaman Dashboard Petugas ✅
-![dashboard petugas](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/5f076e44-38f8-4917-aac9-c07a21169c9e)
+![dashboard petugas](https://github.com/angelinaauliaw/aaa/assets/156304008/578f2c21-5005-4926-9969-acf729b9138b)
 ###  Halaman Dashboard Admin ✅
-![Dashboard admin](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/156304008/b76bbd57-dd28-439a-9e1f-a30a6f697348)
+![dashboard admin](https://github.com/angelinaauliaw/aaa/assets/156304008/0f3698b4-9b4c-43d1-924a-986ef39afd07)
 ### Halaman Stok Barang ✅
-![stok barang](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/4ce1d036-54b9-4bf7-a9f8-b1f73604a998)
+![stok barang](https://github.com/angelinaauliaw/aaa/assets/156304008/4b385368-539f-4b91-8d8d-7a7b34157a4e)
 ###  Halaman Barang Masuk ✅
-![barang masuk](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/6949e81b-9fdf-4df8-a254-ec0f3aaa616e) 
+![barang masuk](https://github.com/angelinaauliaw/aaa/assets/156304008/7be29f3b-2b28-418b-bcda-bef108bd6d53)
 ### Halaman Data Pelanggan ✅
-![pelanggan](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/85f17f72-d126-4927-a5e3-35bcf47b1741)
+![pelanggan](https://github.com/angelinaauliaw/aaa/assets/156304008/ec98c83e-d3bf-44ba-9d6b-91fe9f05eea3)
 ### Halaman Data Pengguna atau User ✅
-![pengguna](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/371fe687-4f6f-4ee1-aab8-9dac7040a3b1)
+![pengguna](https://github.com/angelinaauliaw/aaa/assets/156304008/6757c582-cda1-4ec0-94a3-b3203da79e99)
 ### Halaman Kasir ✅
-![kasir](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/5802d865-be64-428d-8f87-885f1e9ec3ef)
+![kasir](https://github.com/angelinaauliaw/aaa/assets/156304008/cb6363c8-7eee-4ba2-87ac-ee2e8fa0c941)
 ###  Laporan Pembelian ✅
-![lap beli](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/2eb5c55c-8c69-44aa-af02-771c792311d2)
+![lap beli](https://github.com/angelinaauliaw/aaa/assets/156304008/239acf2c-c352-448b-86ce-758e4dbeac63)
 ###  Laporan Penjualan ✅
-![lap jual](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/dcd1f429-fcc4-47e0-aa88-ce49f33a9cd1)
+![lap jual](https://github.com/angelinaauliaw/aaa/assets/156304008/fb78103b-79b6-4a25-bcf6-d3310997db96)
 ### Nota ✅
-![nota](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/e30b84cf-4605-43a9-b57b-eb0b9cea87dd)
+![nota](https://github.com/angelinaauliaw/aaa/assets/156304008/43474daf-ea3e-4e5c-b60e-21be75dde8df)
 ###  About Aplikasi ✅
-![tentang](https://github.com/angelinaauliaw/Aplikasi-Kasir-PHP-Native-MySQLi/assets/142203248/397cdc2e-5911-451d-9b10-c4998b1a4c00)
+![tentang](https://github.com/angelinaauliaw/aaa/assets/156304008/6ce4708f-fede-465a-aec7-99245cde7e9e)
 
 
 ### Panduan Instalasi :<br>
