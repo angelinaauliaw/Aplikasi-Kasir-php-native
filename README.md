@@ -2,7 +2,8 @@
  - Sebuah Aplikasi sederhana untuk mengelola sebuah Toko/Store.<br>
  - Aplikasi ini dibuat menggunakan PHP MySQLi + Template Bootstrap SB Admin 2.<br>
  - Aplikasi ini dibuat sebagai tugas sekolah yg dimana dilaksanakannya Uji Kompetensi (UJIKOM).<br>
- - Aplikasi ini di lengkapi dengan CRUD,Ajax,Login Multy User. untuk lebih lengkapnya dibawah ini. <br>
+ - Aplikasi ini di lengkapi dengan CRUD,Ajax,Login Multy User.
+ - Untuk lebih lengkapnya bisa dilihat dibawah ini. <br>
  ### Spesifikasi Aplikasi :<br>
  - Menggunakan Template SB Admin 2<br>
  - PHP Native<br>
