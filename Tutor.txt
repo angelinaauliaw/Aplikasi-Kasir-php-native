@@ -1,0 +1,12 @@
+Download file ZIP nya dari github
+Buat Folder Baru didalam htdocs
+Extract semua file dan folder kedalam folder baru didalam htdocs
+
+buka chrome lalu akses localhost/phpmyadmin
+klik tabel kasir lalu hapus semua tabel
+kalau sudah import kasir.sql yg terdapat didalam folder db
+
+sekarang buka tab baru/open new tab
+akses localhost/folderbaru
+
+done
