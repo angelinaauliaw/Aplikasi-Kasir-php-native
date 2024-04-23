@@ -33,7 +33,7 @@
  - Stok Barang ✅<br>
  - Kasir ✅<br>
 <br> <br>
-### Screenshoot Aplikasi : <br><br>
+# Screenshoot Aplikasi : <br><br>
 
 ###  Halaman Login ✅
 ![login](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/1fd0a6b7-d2a5-44d3-b2a4-eee567d1aebc)
