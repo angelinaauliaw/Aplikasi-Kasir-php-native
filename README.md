@@ -2,7 +2,7 @@
  - Sebuah Aplikasi sederhana untuk mengelola sebuah Toko/Store.<br>
  - Aplikasi ini dibuat menggunakan PHP MySQLi + Template Bootstrap SB Admin 2.<br>
  - Aplikasi ini dibuat sebagai tugas sekolah yg dimana dilaksanakannya Uji Kompetensi (UJIKOM).<br>
- - Aplikasi ini di lengkapi dengan CRUD,Login Multy User. untuk lebih lengkapnya dibawah ini. <br>
+ - Aplikasi ini di lengkapi dengan CRUD,Ajax,Login Multy User. untuk lebih lengkapnya dibawah ini. <br>
  ### Spesifikasi Aplikasi :<br>
  - Menggunakan Template SB Admin 2<br>
  - PHP Native<br>
@@ -61,7 +61,7 @@
 ![tentang](https://github.com/angelinaauliaw/Aplikasi-Kasir-php-native/assets/156304008/26af9b92-be59-40c7-a065-958efd6a8ea4)
 
 
-### Panduan Instalasi :<br>
+# Panduan Instalasi :<br>
 - Aktifkan Apache dan Mysql pada XAMPP kalian.<br>
 - Buat database dengan nama "kasir" (tanpa tanda petik).<br>
 - Import file sql yang terdapat didalam projectnaya sesuai dengan nama databasenya.<br>
@@ -72,12 +72,12 @@
 ![d1](https://github.com/mgoski/APPM/assets/142203248/13a99ca6-4174-4615-b058-9d39a1c4338d)
 
 
-## Sumber Referensi
+# Sumber Referensi
 - Untuk link tutorial dan bisa dijadikan referensi ada dibawah ini
 - Selebihnya saya kembangkan sendiri.
 - Link : https://www.youtube.com/playlist?list=PLYBbJKYvXA_WNb3UqvgK_ZrEn9xhB5q2G
 
 
 
-### BACA DULU YAH HEHE <br>
+# BACA DULU YAH HEHE <br>
 Jika ingin sourcode yg tidak dikunci silahkan mengirimkan saldo dana/rekening buat jajan hehe <br>
